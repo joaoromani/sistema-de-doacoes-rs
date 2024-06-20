@@ -10,23 +10,31 @@ Utilizei a IA para ajudar no planejamento inicial do projeto, sugerindo uma estr
 
 **Requisitos Funcionais**
 
-Cadastro de Doações:
+1. Cadastro de Doações:
 O sistema deve permitir o cadastro de doações, incluindo informações como tipo de doação (dinheiro, alimentos, roupas), quantidade doada e data da doação.
-Tipos de Doação:
+
+2. Tipos de Doação:
 Deve haver opções específicas para diferenciar entre tipos de doação, como dinheiro, alimentos, roupas e outros mantimentos.
-Recebimento de Doações via Pix:
+
+3. Recebimento de Doações via Pix:
 O sistema deve oferecer a possibilidade de receber doações via Pix, permitindo que os doadores informem dados necessários para a transação.
-Recebimento de Doações via Cartões de Crédito e Boleto:
+
+4. Recebimento de Doações via Cartões de Crédito e Boleto:
 Deve ser possível receber doações também através de cartões de crédito e boleto bancário, com interface clara para inserção dos dados necessários.
-Cálculo do Total de Doações:
+
+5. Cálculo do Total de Doações:
 O sistema deve ser capaz de calcular automaticamente o total de doações recebidas em dinheiro e em itens (alimentos, roupas, etc.), apresentando essas informações de forma clara e acessível.
-Armazenamento Seguro das Informações de Doações:
+
+6. Armazenamento Seguro das Informações de Doações:
 Todas as informações sobre as doações devem ser armazenadas de forma segura, garantindo a integridade dos dados e permitindo o acesso posterior para análise e relatórios.
-Interface de Usuário Intuitiva:
+
+7. Interface de Usuário Intuitiva:
 A interface do sistema deve ser intuitiva e fácil de usar, permitindo que os doadores naveguem facilmente pelo processo de doação e visualizem o histórico de suas contribuições.
-Relatórios de Desempenho e Estatísticas:
+
+8. Relatórios de Desempenho e Estatísticas:
 Deve ser possível gerar relatórios de desempenho, como total arrecadado por tipo de doação e análises estatísticas sobre padrões de doações ao longo do tempo.
-Compatibilidade com Diferentes Dispositivos:
+
+9. Compatibilidade com Diferentes Dispositivos:
 O sistema deve ser acessível através de diferentes dispositivos, como computadores, tablets e smartphones, garantindo uma experiência consistente para todos os usuários.
 
 **CRÍTICA À I.A**
